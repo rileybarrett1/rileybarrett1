@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Riley from Newfoundland Canada<br><br>- 📚 I'm currently learning programming<br>- ⚡ In my free time i do mixed martial arts and ride ski doo!</p>
+<p align="left">I'm Riley from Newfoundland Canada<br><br>- 📚 I'm currently learning software development<br>- ⚡ In my free time i do mixed martial arts, ride skidoos, and play video games!</p>
 
 ###
 
