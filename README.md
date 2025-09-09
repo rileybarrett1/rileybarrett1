@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="arch logo"  />
 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
@@ -73,6 +73,28 @@
 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="linkedin logo"  />
+
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="linkedin logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="linkedin logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="40" alt="linkedin logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="linkedin logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="linkedin logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="linkedin logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="linkedin logo"  />
+  
 </div>
 
 ###
