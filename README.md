@@ -51,8 +51,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rileybarrett1/count.svg?"  />
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/rileybarrett1/count.svg" alt="Visitor Count" />
+</p>
 
 ###
