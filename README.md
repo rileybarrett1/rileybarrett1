@@ -46,52 +46,36 @@
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="linkedin logo"  />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="linkedin logo"  />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="linkedin logo"  />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="linkedin logo"  />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="linkedin logo"  />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="linkedin logo"  />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="linkedin logo"  />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="linkedin logo"  />
-
-   <img width="12" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="linkedin logo"  />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="linkedin logo"  />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sequelize" height="40" alt="linkedin logo"  />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="linkedin logo"  />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="linkedin logo"  />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="linkedin logo"  />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="linkedin logo"  />
   
