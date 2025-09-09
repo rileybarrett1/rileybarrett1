@@ -31,9 +31,48 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="linkedin logo"  />
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="linkedin logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="linkedin logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="linkedin logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="linkedin logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="linkedin logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="linkedin logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="linkedin logo"  />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="linkedin logo"  />
 </div>
 
 ###
